@@ -3,9 +3,19 @@
 
 ## 项目介绍
 此秒杀项目前端使用了Bootsrap、jQuery, 后端主要使用了Spring、SpringMVC、Mybatis，
-数据库使用了Mysql, 缓存使用了Redis。同时使用了RESTful的风格，整个项目自底向上开发，
+数据库使用了MySQL, 缓存使用了Redis。同时使用了RESTful的风格，整个项目自底向上开发，
 由DAO层到Service层，再到Web层，最后再回头分析秒杀的瓶颈所在，并完成了优化。对新手
 来说这是一个不可多得的学习案例。
+
+## 开发环境
+| 软件 | 版本 |
+| :------: | :------: |
+| IntelliJ IDEA | 2016.2.2 |
+| MySQL | 8.0 |
+| Redis | 3.2.100 |
+
+## 系统环境
+Win 10
 
 ## 项目依赖
 | groupId | artifactId | version |
